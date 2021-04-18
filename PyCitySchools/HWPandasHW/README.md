@@ -1,2 +1,0 @@
-# HWPandasHW
-Pandas Homework
